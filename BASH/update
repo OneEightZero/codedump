@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Apt upgrade
+
+sudo apt update
+sudo apt upgrade
+
+exit
